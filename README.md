@@ -16,4 +16,4 @@ I enjoy crafting **intuitive interfaces** that prioritize the user. I strive to 
 
 Let's connect! 🚀
 
-✉️ rcaran@asu.edu
+✉️  rcaran@asu.edu
