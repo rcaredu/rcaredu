@@ -10,9 +10,9 @@ I enjoy crafting **intuitive interfaces** that prioritize the user. I strive to 
 -  Ensure that every design decision is **user-centric**
 -  Continuously learn and adapt to **new design trends** and **technologies**
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_rcaredu&layout=compact)
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=your_username)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=rcaredu)
 
 Let's connect! 🚀
 
