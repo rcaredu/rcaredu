@@ -2,7 +2,7 @@
 
 ## 🎨 Interests
 
-I enjoy crafting **intuitive interfaces** that keep the priortize the user. By seamlessly integrating **design principles** with **technical skills**, I strive to create solutions that are not only functional but also aesthetically pleasing. 
+I enjoy crafting **intuitive interfaces** that prioritize the user. I strive to create solutions that are not only functional but also aesthetically pleasing. 
 
 ## 🌟 Goals
 
