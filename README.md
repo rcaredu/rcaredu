@@ -10,12 +10,6 @@ I enjoy crafting **intuitive interfaces** that prioritize the user. I strive to 
 -  Ensure that every design decision is **user-centric**
 -  Continuously learn and adapt to **new design trends** and **technologies**
 
-## Hobbies
-
--  🎨 **Design**
--  💻 **Coding**
--  🏞️ **Hiking**
--  📸 **Photography**
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcaredu&layout=compact)
 
